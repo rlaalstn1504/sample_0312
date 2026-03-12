@@ -1,0 +1,7 @@
+numpy
+pandas
+streamlit
+folium
+streamlit-folium
+openai==0.28.0
+python-dotenv
